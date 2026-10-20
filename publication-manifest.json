@@ -3,6 +3,7 @@
   "source_manifest_version": "pilot-en-local-3",
   "source_manifest_sha256": "fe6b1b5a90105ebaffcbd3781c491fcc50161ddddcfac5e73c438c6d43d93315",
   "includes_drafts_for_publication": true,
+  "deployment_baseurl": "/practize-help",
   "documents": [
     {
       "id": "en.calendar",
