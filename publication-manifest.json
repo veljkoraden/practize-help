@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "source_manifest_version": "pilot-en-local-3",
-  "source_manifest_sha256": "fe6b1b5a90105ebaffcbd3781c491fcc50161ddddcfac5e73c438c6d43d93315",
+  "source_manifest_version": "pilot-en-local-4",
+  "source_manifest_sha256": "f2a8cf704098aaf1242747d591cc64b10c6fb6a6ebe52e2aaba0d16226099f54",
   "includes_drafts_for_publication": true,
-  "deployment_baseurl": "/practize-help",
+  "deployment_baseurl": "",
   "documents": [
     {
       "id": "en.calendar",
       "title": "Appointments and opening hours",
       "status": "published",
-      "url": "https://practize.io/help/calendar",
+      "url": "https://help.practize.io/help/calendar",
       "path": "help/calendar.md",
       "sha256": "6d2fc94b6c36a160bf8540ea249ae4753b75fb54203abcfc4a53e20e7880075d"
     },
@@ -17,7 +17,7 @@
       "id": "en.clients",
       "title": "Creating and managing clients",
       "status": "published",
-      "url": "https://practize.io/help/clients",
+      "url": "https://help.practize.io/help/clients",
       "path": "help/clients.md",
       "sha256": "7d87209efb06be83dccf6378c0a6350fc31f8a3e00cdce7ad1a0ce41d4b0aba2"
     },
@@ -25,7 +25,7 @@
       "id": "en.services",
       "title": "Creating and managing services",
       "status": "published",
-      "url": "https://practize.io/help/services",
+      "url": "https://help.practize.io/help/services",
       "path": "help/services.md",
       "sha256": "f1b66dbd363d2b7999048810976edec27cccea72f242f40ba912a340002a7584"
     },
@@ -33,7 +33,7 @@
       "id": "en.invoices",
       "title": "Creating and managing invoices",
       "status": "published",
-      "url": "https://practize.io/help/invoices",
+      "url": "https://help.practize.io/help/invoices",
       "path": "help/invoices.md",
       "sha256": "b6f4971e40930ed756d74412fb575b97e5a8e099d418197c26d1b3875cb9421d"
     },
@@ -41,7 +41,7 @@
       "id": "en.profile",
       "title": "Updating your profile and practice details",
       "status": "published",
-      "url": "https://practize.io/help/general-settings/your-profile",
+      "url": "https://help.practize.io/help/general-settings/your-profile",
       "path": "help/general-settings/your-profile.md",
       "sha256": "b6e559bcbb8e7f268375f131fd2f3316e5277c519e6455f177e3142ba4ae66ff"
     },
@@ -49,7 +49,7 @@
       "id": "en.messages",
       "title": "Configuring email and SMS message templates",
       "status": "published",
-      "url": "https://practize.io/help/general-settings/e-mail-sms",
+      "url": "https://help.practize.io/help/general-settings/e-mail-sms",
       "path": "help/general-settings/e-mail-sms.md",
       "sha256": "940a1fd35574adbd2ec786b6fa226ef85cce96ad46d047745cc677930f670589"
     },
@@ -57,7 +57,7 @@
       "id": "en.settings",
       "title": "Managing practice settings",
       "status": "draft",
-      "url": "https://practize.io/help/general-settings",
+      "url": "https://help.practize.io/help/general-settings",
       "path": "help/general-settings.md",
       "sha256": "c54e20077b39dba4e98eb948433c51267d5725a70dea02a281ba376e62a008db"
     },
@@ -65,7 +65,7 @@
       "id": "en.apps",
       "title": "Activating and managing Apps",
       "status": "draft",
-      "url": "https://practize.io/help/apps",
+      "url": "https://help.practize.io/help/apps",
       "path": "help/apps.md",
       "sha256": "7b305fdd843897847772a0030abbf618cc2d261c194753ee91fa15ec18920d06"
     },
@@ -73,7 +73,7 @@
       "id": "en.reports",
       "title": "Viewing and downloading reports",
       "status": "draft",
-      "url": "https://practize.io/help/invoices/revenue-report",
+      "url": "https://help.practize.io/help/invoices/revenue-report",
       "path": "help/invoices/revenue-report.md",
       "sha256": "4af15384a9c4b1154c9913b9df674063ff968ad6deaecc62583ffc08a373cf47"
     },
@@ -81,7 +81,7 @@
       "id": "en.subscriptions",
       "title": "Managing your Practize subscription",
       "status": "draft",
-      "url": "https://practize.io/help/general-settings/your-subscription",
+      "url": "https://help.practize.io/help/general-settings/your-subscription",
       "path": "help/general-settings/your-subscription.md",
       "sha256": "f2a71cc5ee292546e0d6a08c59b764e872a3b2163365217214e60b4717f3cfd2"
     },
@@ -89,7 +89,7 @@
       "id": "en.payments",
       "title": "Recording and managing client payments",
       "status": "draft",
-      "url": "https://practize.io/help/payments",
+      "url": "https://help.practize.io/help/payments",
       "path": "help/payments.md",
       "sha256": "19fa3a264f121c973b4297c70759dfb09ec020aa3deec51ea7917ad680b5dac6"
     },
@@ -97,7 +97,7 @@
       "id": "en.secure-messages",
       "title": "Secure messages",
       "status": "draft",
-      "url": "https://practize.io/help/apps/secure-messages",
+      "url": "https://help.practize.io/help/apps/secure-messages",
       "path": "help/apps/secure-messages.md",
       "sha256": "bc58253cc463a580a78f84ece080fc3e34934e535aaceb036c55e588c1c5f1d5"
     },
@@ -105,7 +105,7 @@
       "id": "en.consent",
       "title": "Consent",
       "status": "draft",
-      "url": "https://practize.io/help/apps/consent",
+      "url": "https://help.practize.io/help/apps/consent",
       "path": "help/apps/consent.md",
       "sha256": "29001dc92d765e7a4f4c4b7657926f60513ea4db75c72577dd13df303e479500"
     },
@@ -113,7 +113,7 @@
       "id": "en.two-factor-authentication",
       "title": "Two-factor authentication",
       "status": "draft",
-      "url": "https://practize.io/help/apps/two-factor-authentication",
+      "url": "https://help.practize.io/help/apps/two-factor-authentication",
       "path": "help/apps/two-factor-authentication.md",
       "sha256": "3ff90d3b1857e7d53e66b187ff776d99930184e5e7734623cb60722dd224b969"
     },
@@ -121,7 +121,7 @@
       "id": "en.add-on-services",
       "title": "Add-on services",
       "status": "draft",
-      "url": "https://practize.io/help/apps/add-on-services",
+      "url": "https://help.practize.io/help/apps/add-on-services",
       "path": "help/apps/add-on-services.md",
       "sha256": "4748d74327f378b49bc421f2332131cf807fa47219bf42008c6ae42fad648a6e"
     },
@@ -129,7 +129,7 @@
       "id": "en.discount-codes",
       "title": "Discount Codes",
       "status": "draft",
-      "url": "https://practize.io/help/apps/discount-codes",
+      "url": "https://help.practize.io/help/apps/discount-codes",
       "path": "help/apps/discount-codes.md",
       "sha256": "ed2bee326a7d0c6c8251148f7aeda0ba0d27b06cf877f3d3c511e7f0fae58e33"
     },
@@ -137,7 +137,7 @@
       "id": "en.vouchers",
       "title": "Vouchers",
       "status": "draft",
-      "url": "https://practize.io/help/apps/vouchers",
+      "url": "https://help.practize.io/help/apps/vouchers",
       "path": "help/apps/vouchers.md",
       "sha256": "251e52e96909a7e980bed1bb5caf467f0f67b260f07c1cc37c995d203602823c"
     },
@@ -145,7 +145,7 @@
       "id": "en.gift-cards",
       "title": "Gift Cards",
       "status": "draft",
-      "url": "https://practize.io/help/apps/gift-cards",
+      "url": "https://help.practize.io/help/apps/gift-cards",
       "path": "help/apps/gift-cards.md",
       "sha256": "f9385d7f729b4262a6bf5706e459f7d9352284b6f8186562491ed6f8879c7ef8"
     },
@@ -153,7 +153,7 @@
       "id": "en.online-courses",
       "title": "Online Courses",
       "status": "draft",
-      "url": "https://practize.io/help/online-courses",
+      "url": "https://help.practize.io/help/online-courses",
       "path": "help/online-courses.md",
       "sha256": "77b1ef1add7dbc5e5676046c7f4512fda0405756f65cfeab28f505fa19241503"
     },
@@ -161,7 +161,7 @@
       "id": "en.appointment-status",
       "title": "Appointment Status",
       "status": "draft",
-      "url": "https://practize.io/help/apps/calendar-apps",
+      "url": "https://help.practize.io/help/apps/calendar-apps",
       "path": "help/apps/calendar-apps.md",
       "sha256": "9a8892e0fd60e4e155460f1c7cbc27a7de5f47cdfa112500dba851356f3441a1"
     },
@@ -169,7 +169,7 @@
       "id": "en.events",
       "title": "Events",
       "status": "draft",
-      "url": "https://practize.io/help/apps/events",
+      "url": "https://help.practize.io/help/apps/events",
       "path": "help/apps/events.md",
       "sha256": "8e11e62e960295861d73d33a7cb75a5eda5e60ae8047b5d590336fce0e285da9"
     },
@@ -177,7 +177,7 @@
       "id": "en.attendance",
       "title": "Attendance",
       "status": "draft",
-      "url": "https://practize.io/help/apps/attendance",
+      "url": "https://help.practize.io/help/apps/attendance",
       "path": "help/apps/attendance.md",
       "sha256": "e1c0730f4d6b4828ab80535f405aecd4cccabeec13e3682d563a5f6907999216"
     },
@@ -185,7 +185,7 @@
       "id": "en.custom-fields",
       "title": "Custom Fields",
       "status": "draft",
-      "url": "https://practize.io/help/apps/custom-fields",
+      "url": "https://help.practize.io/help/apps/custom-fields",
       "path": "help/apps/custom-fields.md",
       "sha256": "74b184a73eefb1b8d7a541dd2f7dcab6d020e103547d61316d34c652cabb16eb"
     },
@@ -193,7 +193,7 @@
       "id": "en.surveys",
       "title": "Surveys",
       "status": "draft",
-      "url": "https://practize.io/help/apps/surveys",
+      "url": "https://help.practize.io/help/apps/surveys",
       "path": "help/apps/surveys.md",
       "sha256": "b45847866d34f9e7220f7d7ac114165c939fd8df5b03b5bde03564f59a0ed12e"
     },
@@ -201,7 +201,7 @@
       "id": "en.payment-rates",
       "title": "Payment rates (installments)",
       "status": "draft",
-      "url": "https://practize.io/help/apps/payment-rates",
+      "url": "https://help.practize.io/help/apps/payment-rates",
       "path": "help/apps/payment-rates.md",
       "sha256": "4d8ef9ee6705b6a4bfff9f0721f2d16f287fe62d1e5421cb0d08406c21a17cba"
     }

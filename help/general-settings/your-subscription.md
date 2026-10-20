@@ -2,7 +2,7 @@
 layout: default
 title: "Managing your Practize subscription"
 permalink: /help/general-settings/your-subscription
-canonical_url: https://practize.io/help/general-settings/your-subscription
+canonical_url: https://help.practize.io/help/general-settings/your-subscription
 corpus_id: en.subscriptions
 source_sha256: f2a71cc5ee292546e0d6a08c59b764e872a3b2163365217214e60b4717f3cfd2
 ---

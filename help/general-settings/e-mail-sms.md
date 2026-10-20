@@ -2,7 +2,7 @@
 layout: default
 title: "Configuring email and SMS message templates"
 permalink: /help/general-settings/e-mail-sms
-canonical_url: https://practize.io/help/general-settings/e-mail-sms
+canonical_url: https://help.practize.io/help/general-settings/e-mail-sms
 corpus_id: en.messages
 source_sha256: 940a1fd35574adbd2ec786b6fa226ef85cce96ad46d047745cc677930f670589
 ---

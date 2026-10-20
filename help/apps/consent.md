@@ -2,7 +2,7 @@
 layout: default
 title: "Consent"
 permalink: /help/apps/consent
-canonical_url: https://practize.io/help/apps/consent
+canonical_url: https://help.practize.io/help/apps/consent
 corpus_id: en.consent
 source_sha256: 29001dc92d765e7a4f4c4b7657926f60513ea4db75c72577dd13df303e479500
 ---

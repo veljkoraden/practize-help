@@ -2,7 +2,7 @@
 layout: default
 title: "Recording and managing client payments"
 permalink: /help/payments
-canonical_url: https://practize.io/help/payments
+canonical_url: https://help.practize.io/help/payments
 corpus_id: en.payments
 source_sha256: 19fa3a264f121c973b4297c70759dfb09ec020aa3deec51ea7917ad680b5dac6
 ---

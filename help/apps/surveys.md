@@ -2,7 +2,7 @@
 layout: default
 title: "Surveys"
 permalink: /help/apps/surveys
-canonical_url: https://practize.io/help/apps/surveys
+canonical_url: https://help.practize.io/help/apps/surveys
 corpus_id: en.surveys
 source_sha256: b45847866d34f9e7220f7d7ac114165c939fd8df5b03b5bde03564f59a0ed12e
 ---

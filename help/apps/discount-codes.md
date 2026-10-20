@@ -2,7 +2,7 @@
 layout: default
 title: "Discount Codes"
 permalink: /help/apps/discount-codes
-canonical_url: https://practize.io/help/apps/discount-codes
+canonical_url: https://help.practize.io/help/apps/discount-codes
 corpus_id: en.discount-codes
 source_sha256: ed2bee326a7d0c6c8251148f7aeda0ba0d27b06cf877f3d3c511e7f0fae58e33
 ---

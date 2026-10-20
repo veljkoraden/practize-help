@@ -1,7 +1,7 @@
 title: Practize Help
 description: Product help for Practize practitioners and practice staff.
-url: https://practize.io
-baseurl: "/practize-help"
+url: https://help.practize.io
+baseurl: ""
 markdown: kramdown
 kramdown:
   input: GFM

@@ -2,7 +2,7 @@
 layout: default
 title: "Add-on services"
 permalink: /help/apps/add-on-services
-canonical_url: https://practize.io/help/apps/add-on-services
+canonical_url: https://help.practize.io/help/apps/add-on-services
 corpus_id: en.add-on-services
 source_sha256: 4748d74327f378b49bc421f2332131cf807fa47219bf42008c6ae42fad648a6e
 ---

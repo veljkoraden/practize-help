@@ -2,7 +2,7 @@
 layout: default
 title: "Secure messages"
 permalink: /help/apps/secure-messages
-canonical_url: https://practize.io/help/apps/secure-messages
+canonical_url: https://help.practize.io/help/apps/secure-messages
 corpus_id: en.secure-messages
 source_sha256: bc58253cc463a580a78f84ece080fc3e34934e535aaceb036c55e588c1c5f1d5
 ---

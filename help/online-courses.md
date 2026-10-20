@@ -2,7 +2,7 @@
 layout: default
 title: "Online Courses"
 permalink: /help/online-courses
-canonical_url: https://practize.io/help/online-courses
+canonical_url: https://help.practize.io/help/online-courses
 corpus_id: en.online-courses
 source_sha256: 77b1ef1add7dbc5e5676046c7f4512fda0405756f65cfeab28f505fa19241503
 ---

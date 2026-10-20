@@ -2,7 +2,7 @@
 layout: default
 title: "Creating and managing services"
 permalink: /help/services
-canonical_url: https://practize.io/help/services
+canonical_url: https://help.practize.io/help/services
 corpus_id: en.services
 source_sha256: f1b66dbd363d2b7999048810976edec27cccea72f242f40ba912a340002a7584
 ---

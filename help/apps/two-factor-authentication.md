@@ -2,7 +2,7 @@
 layout: default
 title: "Two-factor authentication"
 permalink: /help/apps/two-factor-authentication
-canonical_url: https://practize.io/help/apps/two-factor-authentication
+canonical_url: https://help.practize.io/help/apps/two-factor-authentication
 corpus_id: en.two-factor-authentication
 source_sha256: 3ff90d3b1857e7d53e66b187ff776d99930184e5e7734623cb60722dd224b969
 ---

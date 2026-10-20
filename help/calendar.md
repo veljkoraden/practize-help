@@ -2,7 +2,7 @@
 layout: default
 title: "Appointments and opening hours"
 permalink: /help/calendar
-canonical_url: https://practize.io/help/calendar
+canonical_url: https://help.practize.io/help/calendar
 corpus_id: en.calendar
 source_sha256: 6d2fc94b6c36a160bf8540ea249ae4753b75fb54203abcfc4a53e20e7880075d
 ---

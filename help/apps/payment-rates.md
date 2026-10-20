@@ -2,7 +2,7 @@
 layout: default
 title: "Payment rates (installments)"
 permalink: /help/apps/payment-rates
-canonical_url: https://practize.io/help/apps/payment-rates
+canonical_url: https://help.practize.io/help/apps/payment-rates
 corpus_id: en.payment-rates
 source_sha256: 4d8ef9ee6705b6a4bfff9f0721f2d16f287fe62d1e5421cb0d08406c21a17cba
 ---

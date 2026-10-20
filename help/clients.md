@@ -2,7 +2,7 @@
 layout: default
 title: "Creating and managing clients"
 permalink: /help/clients
-canonical_url: https://practize.io/help/clients
+canonical_url: https://help.practize.io/help/clients
 corpus_id: en.clients
 source_sha256: 7d87209efb06be83dccf6378c0a6350fc31f8a3e00cdce7ad1a0ce41d4b0aba2
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: "Gift Cards"
 permalink: /help/apps/gift-cards
-canonical_url: https://practize.io/help/apps/gift-cards
+canonical_url: https://help.practize.io/help/apps/gift-cards
 corpus_id: en.gift-cards
 source_sha256: f9385d7f729b4262a6bf5706e459f7d9352284b6f8186562491ed6f8879c7ef8
 ---

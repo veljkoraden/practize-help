@@ -2,7 +2,7 @@
 layout: default
 title: "Updating your profile and practice details"
 permalink: /help/general-settings/your-profile
-canonical_url: https://practize.io/help/general-settings/your-profile
+canonical_url: https://help.practize.io/help/general-settings/your-profile
 corpus_id: en.profile
 source_sha256: b6e559bcbb8e7f268375f131fd2f3316e5277c519e6455f177e3142ba4ae66ff
 ---

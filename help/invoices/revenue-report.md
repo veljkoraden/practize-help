@@ -2,7 +2,7 @@
 layout: default
 title: "Viewing and downloading reports"
 permalink: /help/invoices/revenue-report
-canonical_url: https://practize.io/help/invoices/revenue-report
+canonical_url: https://help.practize.io/help/invoices/revenue-report
 corpus_id: en.reports
 source_sha256: 4af15384a9c4b1154c9913b9df674063ff968ad6deaecc62583ffc08a373cf47
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: "Custom Fields"
 permalink: /help/apps/custom-fields
-canonical_url: https://practize.io/help/apps/custom-fields
+canonical_url: https://help.practize.io/help/apps/custom-fields
 corpus_id: en.custom-fields
 source_sha256: 74b184a73eefb1b8d7a541dd2f7dcab6d020e103547d61316d34c652cabb16eb
 ---

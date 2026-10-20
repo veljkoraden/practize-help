@@ -2,7 +2,7 @@
 layout: default
 title: "Activating and managing Apps"
 permalink: /help/apps
-canonical_url: https://practize.io/help/apps
+canonical_url: https://help.practize.io/help/apps
 corpus_id: en.apps
 source_sha256: 7b305fdd843897847772a0030abbf618cc2d261c194753ee91fa15ec18920d06
 ---

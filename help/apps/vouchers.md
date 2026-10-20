@@ -2,7 +2,7 @@
 layout: default
 title: "Vouchers"
 permalink: /help/apps/vouchers
-canonical_url: https://practize.io/help/apps/vouchers
+canonical_url: https://help.practize.io/help/apps/vouchers
 corpus_id: en.vouchers
 source_sha256: 251e52e96909a7e980bed1bb5caf467f0f67b260f07c1cc37c995d203602823c
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: "Appointment Status"
 permalink: /help/apps/calendar-apps
-canonical_url: https://practize.io/help/apps/calendar-apps
+canonical_url: https://help.practize.io/help/apps/calendar-apps
 corpus_id: en.appointment-status
 source_sha256: 9a8892e0fd60e4e155460f1c7cbc27a7de5f47cdfa112500dba851356f3441a1
 ---

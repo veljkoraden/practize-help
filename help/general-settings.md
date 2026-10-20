@@ -2,7 +2,7 @@
 layout: default
 title: "Managing practice settings"
 permalink: /help/general-settings
-canonical_url: https://practize.io/help/general-settings
+canonical_url: https://help.practize.io/help/general-settings
 corpus_id: en.settings
 source_sha256: c54e20077b39dba4e98eb948433c51267d5725a70dea02a281ba376e62a008db
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: "Creating and managing invoices"
 permalink: /help/invoices
-canonical_url: https://practize.io/help/invoices
+canonical_url: https://help.practize.io/help/invoices
 corpus_id: en.invoices
 source_sha256: b6f4971e40930ed756d74412fb575b97e5a8e099d418197c26d1b3875cb9421d
 ---

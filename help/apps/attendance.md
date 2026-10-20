@@ -2,7 +2,7 @@
 layout: default
 title: "Attendance"
 permalink: /help/apps/attendance
-canonical_url: https://practize.io/help/apps/attendance
+canonical_url: https://help.practize.io/help/apps/attendance
 corpus_id: en.attendance
 source_sha256: e1c0730f4d6b4828ab80535f405aecd4cccabeec13e3682d563a5f6907999216
 ---

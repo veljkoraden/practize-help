@@ -2,7 +2,7 @@
 layout: default
 title: "Events"
 permalink: /help/apps/events
-canonical_url: https://practize.io/help/apps/events
+canonical_url: https://help.practize.io/help/apps/events
 corpus_id: en.events
 source_sha256: 8e11e62e960295861d73d33a7cb75a5eda5e60ae8047b5d590336fce0e285da9
 ---
