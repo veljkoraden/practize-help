@@ -2,7 +2,7 @@
   "schema_version": 1,
   "source_manifest_version": "pilot-en-local-4",
   "source_manifest_sha256": "549b6dc535efc8da86c90fecd35eff1ea42142f0ca0b8899b8b839708468c5c4",
-  "includes_drafts_for_publication": true,
+  "includes_drafts_for_publication": false,
   "deployment_baseurl": "",
   "documents": [
     {
