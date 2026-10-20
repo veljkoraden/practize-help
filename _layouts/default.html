@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title | escape }} | Practize Help</title>
   <meta name="description" content="Practize product help for practitioners and practice staff.">
+  {% if page.corpus_id %}<meta name="practize-corpus-id" content="{{ page.corpus_id | escape }}">{% endif %}
+  {% if page.source_sha256 %}<meta name="practize-source-sha256" content="{{ page.source_sha256 | escape }}">{% endif %}
   <link rel="canonical" href="{{ page.canonical_url | default: site.url | escape }}">
   <link rel="stylesheet" href="{{ '/assets/help.css' | relative_url }}">
 </head>
