@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | escape }} | Practize Help</title>
+  <meta name="description" content="Practize product help for practitioners and practice staff.">
+  <link rel="canonical" href="{{ page.canonical_url | default: site.url | escape }}">
+  <link rel="stylesheet" href="/assets/help.css">
+</head>
+<body>
+  <header class="site-header"><a href="/help/" aria-label="Practize Help home"><span class="mark" aria-hidden="true">P</span><span>Practize Help</span></a></header>
+  <main id="main-content">{{ content }}</main>
+  <footer><a href="/help/">All help articles</a><span>Product guidance only. Do not include client or sensitive information.</span></footer>
+</body>
+</html>

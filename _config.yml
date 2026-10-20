@@ -1,0 +1,12 @@
+title: Practize Help
+description: Product help for Practize practitioners and practice staff.
+url: https://practize.io
+baseurl: ""
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+exclude:
+  - scripts
+  - README.md
+  - publication-manifest.json
