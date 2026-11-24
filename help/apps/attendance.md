@@ -4,7 +4,7 @@ title: "Attendance"
 permalink: /help/apps/attendance
 canonical_url: https://help.practize.io/help/apps/attendance
 corpus_id: en.attendance
-source_sha256: c560143b135b96684dc52446238720772349ec8228e4363c6f0fe7c3a7e954a4
+source_sha256: 23c3735e28215fe927105960d3b3304d8677197bc14461369170d48ac82dc0ec
 ---
 
 # Attendance
@@ -13,7 +13,7 @@ Attendance records that a client attended a booked session. Staff can check clie
 
 ## Before you start
 
-The owner opens **Settings → Apps → Attendance**, activates the app where available, and enables **session check-in**. Attendance can be included automatically for configured gym and yoga practices; the settings page indicates when included access prevents deactivation. Other accounts may see an availability restriction. Staff need attendance permissions and access to the relevant client and calendar. Memberships is optional for existing reservations; membership-covered walk-ins require it.
+The owner opens **Settings → Apps → Attendance**, activates the app where available, and enables **session check-in**. Attendance is optional for Yoga, Pilates, Fitness Studio, Dance/Movement and Gym/Fitness Club practices. Choose it during onboarding or configure it later. Included access does not make it mandatory: owners can deactivate it in Attendance settings, and saving the practice profile preserves that choice. Other accounts may see an availability restriction. Staff need attendance permissions and access to the relevant client and calendar. Memberships is optional for existing reservations; membership-covered walk-ins require it.
 
 ## Check in an existing reservation
 

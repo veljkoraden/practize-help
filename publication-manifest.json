@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source_manifest_version": "app-guides-2026-11-24",
-  "source_manifest_sha256": "db9812cfb0dffc043a01dfcdc8770af1156dd4e010b29702eacccac8611e8964",
+  "source_manifest_sha256": "e63afba0a5a30488e7d938da01dbdade4bb306a317eec6097fc083da9a53a059",
   "includes_drafts_for_publication": false,
   "deployment_baseurl": "",
   "documents": [
@@ -179,7 +179,7 @@
       "status": "published",
       "url": "https://help.practize.io/help/apps/attendance",
       "path": "help/apps/attendance.md",
-      "sha256": "c560143b135b96684dc52446238720772349ec8228e4363c6f0fe7c3a7e954a4"
+      "sha256": "23c3735e28215fe927105960d3b3304d8677197bc14461369170d48ac82dc0ec"
     },
     {
       "id": "en.custom-fields",
