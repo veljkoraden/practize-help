@@ -42,10 +42,9 @@ cases = [('/', 'Product help'), ('/help/', 'Help articles'), ('/404.html', 'Page
 cases += [(urlparse(doc['url']).path, doc['title']) for doc in manifest['documents']]
 for url, title in cases:
     path = root / url.lstrip('/')
-    if path.is_dir():
-        path /= 'index.html'
-    elif not path.exists():
-        path = Path(str(path) + '.html')
+    candidates = [path, path / 'index.html', Path(str(path) + '.html')]
+    path = next((candidate for candidate in candidates if candidate.is_file()), None)
+    assert path is not None, f'Missing rendered page: {url}'
     parser = Breadcrumbs()
     parser.feed(path.read_text())
     expected = [] if url == '/' else ['Home']
