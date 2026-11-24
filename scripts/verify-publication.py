@@ -90,8 +90,11 @@ def verify_document(document: dict, opener=urlopen) -> None:
 
 def verify(manifest: dict, opener=urlopen) -> dict:
     documents = manifest.get("documents")
-    if not isinstance(documents, list) or len(documents) != 25:
-        raise ValueError("publication manifest must contain exactly 25 documents")
+    expected = manifest.get("expected_documents", 25)
+    if type(expected) is not int or expected < 1:
+        raise ValueError("expected_documents must be a positive integer")
+    if not isinstance(documents, list) or len(documents) != expected:
+        raise ValueError(f"publication manifest must contain exactly {expected} documents")
     ids = [document.get("id") for document in documents]
     urls = [document.get("url") for document in documents]
     if len(set(ids)) != len(ids) or len(set(urls)) != len(urls):

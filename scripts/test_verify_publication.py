@@ -97,5 +97,20 @@ class VerifyPublicationTest(unittest.TestCase):
             MODULE.verify({"documents": items}, opener)
 
 
+    def test_expanded_catalog_checks_every_article_and_rejects_missing_entries(self):
+        items = [document(number) for number in range(60)]
+        visited = []
+        def opener(request, **_):
+            visited.append(request.full_url)
+            return Response(request.full_url, html_for(next(item for item in items if item["url"] == request.full_url)))
+        self.assertEqual(60, MODULE.verify({"expected_documents": 60, "documents": items}, opener)["documents"])
+        self.assertEqual(60, len(visited))
+        with self.assertRaisesRegex(ValueError, "exactly 60"):
+            MODULE.verify({"expected_documents": 60, "documents": items[:-1]}, opener)
+        for invalid in [0, -1, True, "60"]:
+            with self.assertRaisesRegex(ValueError, "positive integer"):
+                MODULE.verify({"expected_documents": invalid, "documents": items}, opener)
+
+
 if __name__ == "__main__":
     unittest.main()

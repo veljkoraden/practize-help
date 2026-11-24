@@ -486,5 +486,6 @@
       "sha256": "b8d3607aea3f51fa518374798603ee27ce4e29cbf0d8778ccd68a2e47b18e9e0"
     }
   ],
-  "base_source_manifest_version": "pilot-en-local-4"
+  "base_source_manifest_version": "pilot-en-local-4",
+  "expected_documents": 60
 }
