@@ -29,6 +29,8 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      - name: Check rendered breadcrumbs
+        run: python3 scripts/test_breadcrumbs.py _site
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
 

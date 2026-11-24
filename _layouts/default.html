@@ -12,7 +12,23 @@
 </head>
 <body>
   <header class="site-header"><a href="{{ '/help/' | relative_url }}" aria-label="Practize Help home"><span class="mark" aria-hidden="true">P</span><span>Practize Help</span></a></header>
-  <main id="main-content">{{ content }}</main>
+  <main id="main-content">
+    {% unless page.url == '/' %}
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        {% unless page.url == '/help/' %}
+        <li><span class="breadcrumb-separator" aria-hidden="true">/</span><a href="{{ '/help/' | relative_url }}">Help articles</a></li>
+        {% endunless %}
+        {% if page.url contains '/help/apps/' %}
+        <li><span class="breadcrumb-separator" aria-hidden="true">/</span><a href="{{ '/help/apps' | relative_url }}">Apps</a></li>
+        {% endif %}
+        <li><span class="breadcrumb-separator" aria-hidden="true">/</span><span aria-current="page">{{ page.title | escape }}</span></li>
+      </ol>
+    </nav>
+    {% endunless %}
+    {{ content }}
+  </main>
   <footer><a href="{{ '/help/' | relative_url }}">All help articles</a><span>Product guidance only. Do not include client or sensitive information.</span></footer>
 </body>
 </html>
