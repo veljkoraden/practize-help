@@ -1,30 +1,38 @@
 ---
 layout: default
-title: "Vouchers"
+title: "Vouchers and passes"
 permalink: /help/apps/vouchers
 canonical_url: https://help.practize.io/help/apps/vouchers
 corpus_id: en.vouchers
-source_sha256: 251e52e96909a7e980bed1bb5caf467f0f67b260f07c1cc37c995d203602823c
+source_sha256: 1781f5d3012e1808c790e0d641e116f5071f367a4973a7c2f74f1ec23c136e56
 ---
 
-# Vouchers
+# Vouchers and passes
 
-## What vouchers do
+Sell and manage the service or event vouchers supported by your account.
 
-A voucher represents a defined number of uses for eligible services or events. A client voucher tracks remaining uses and expiry. Vouchers are different from Gift Cards, which represent value rather than a fixed set of uses.
+## Availability and permissions
 
-## Create a voucher
+Open **Settings → Apps** and find **Vouchers and passes**. The card's availability, price, connection state and available actions apply to your account. A help article does not activate an app. Ask the owner to review missing access; staff permissions and app availability are separate. Do not use another person's login to bypass a restriction.
 
-Activate **Vouchers** in **Settings → Apps**, then open the vouchers area in Services. Create a voucher with a clear name, price, number of uses, expiry rules, and eligible services or events. Review VAT and payment-rate settings when they are offered.
+## Set up
 
-Make the voucher available in the public flow only after its eligibility is correct. Test purchase, assignment to the intended client, one redemption, the remaining-use count, and expiry behavior.
+1. Activate Vouchers where available; this app may use the offering-management workflow rather than a separate settings page.
+2. Create or review the voucher offering, included service or event, price and validity displayed in its editor.
+3. Preview the purchase and check the issued voucher details before using it with clients.
 
-## Manage a client's voucher
+## Everyday use
 
-Open the client record to view assigned vouchers when the signed-in user has client access. Authorized users may add or remove a use according to the displayed controls. Record manual corrections carefully; changing remaining uses affects what the client can book.
+Select an eligible voucher through the supported booking/payment workflow and verify remaining entitlement after use.
 
-If a voucher is not offered, check that the App and voucher are active, it applies to the selected service or event, uses remain, it has not expired, and the client is signed in when required.
+## Troubleshooting
 
-## Financial and privacy boundaries
+If redemption is refused, check the actual voucher validity, remaining balance or uses and eligible offering. A similarly named service is not necessarily included.
 
-A successful page redirect is not proof of payment. Confirm the payment and voucher state in Practize and, when needed, the payment provider. Do not paste voucher identifiers, client names, payment details, or provider responses into the AI Assistant. It can explain the workflow but cannot redeem or alter a voucher.
+## Limits and changes
+
+A voucher is not automatically a recurring Membership. Do not promise unlimited visits, transferable ownership or refunds unless the specific voucher and supported workflow provide them.
+
+## Related help
+
+Return to [App help](https://help.practize.io/help/) to find related setup guides. Before changing a connected workflow, finish pending work and verify its status in the relevant booking, invoice or client record.

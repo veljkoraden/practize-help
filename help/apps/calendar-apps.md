@@ -1,30 +1,38 @@
 ---
 layout: default
-title: "Appointment Status"
+title: "Booking status"
 permalink: /help/apps/calendar-apps
 canonical_url: https://help.practize.io/help/apps/calendar-apps
 corpus_id: en.appointment-status
-source_sha256: 9a8892e0fd60e4e155460f1c7cbc27a7de5f47cdfa112500dba851356f3441a1
+source_sha256: ba0e482ea33836afbb9aba69b90806ca7b4afede82e55ac185e2fe6931b3aa76
 ---
 
-# Appointment Status
+# Booking status
 
-## Use appointment statuses
+Use status labels to coordinate the progress of appointments.
 
-Appointment Status adds practice-defined labels or states to help teams distinguish stages of an appointment workflow. Use short names that staff can understand consistently. A status does not replace cancellation, payment, attendance, or journal records.
+## Availability and permissions
 
-## Configure statuses
+Open **Settings → Apps** and find **Booking status**. The card's availability, price, connection state and available actions apply to your account. A help article does not activate an app. Ask the owner to review missing access; staff permissions and app availability are separate. Do not use another person's login to bypass a restriction.
 
-Open **Settings → Apps → Appointment Status**. Activate the App, then create or edit the statuses available to the practice. Choose the displayed name and visual treatment, and arrange them in a useful order when ordering is supported.
+## Set up
 
-Document internally when each status should be used. Avoid status names that reveal health or other sensitive facts on screens visible to broader staff.
+1. Activate Booking status from Apps.
+2. Open its settings and review the available statuses. Enable the statuses your staff should use.
+3. Open an appropriate booking, choose its status and save. Agree with colleagues what each status means.
 
-## Apply and review
+## Everyday use
 
-Open an appointment and choose the appropriate status. Confirm the saved value on the calendar or appointment details. When staff have different calendar or client permissions, verify that their access still follows those permissions; a status must not grant access to the appointment.
+Update a booking status when the relevant step occurs and use the displayed label when coordinating work. Keep the underlying appointment information correct.
 
-If a status is missing, check that the App is active, the status remains enabled, the signed-in user can edit that appointment, and the page is using current settings. Before deleting or replacing a status, review how existing appointments and reports will display it.
+## Troubleshooting
 
-## Boundaries
+If a status is unavailable, check that it is enabled and that you can edit the booking. Reload after another staff member edits the appointment.
 
-Appointment status is separate from Attendance, which records whether a participant attended, and from invoice payment state. Do not put client names, reasons for absence, clinical facts, or appointment notes into a status label or AI Assistant question. The Assistant can explain statuses but cannot change appointment records.
+## Limits and changes
+
+A booking label is not proof of payment, membership eligibility or attendance. Use the invoice, Memberships and Attendance records for those facts.
+
+## Related help
+
+Return to [App help](https://help.practize.io/help/) to find related setup guides. Before changing a connected workflow, finish pending work and verify its status in the relevant booking, invoice or client record.

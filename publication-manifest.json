@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "source_manifest_version": "pilot-en-local-4",
-  "source_manifest_sha256": "549b6dc535efc8da86c90fecd35eff1ea42142f0ca0b8899b8b839708468c5c4",
+  "source_manifest_version": "app-guides-2026-11-24",
+  "source_manifest_sha256": "db9812cfb0dffc043a01dfcdc8770af1156dd4e010b29702eacccac8611e8964",
   "includes_drafts_for_publication": false,
   "deployment_baseurl": "",
   "documents": [
@@ -95,11 +95,11 @@
     },
     {
       "id": "en.secure-messages",
-      "title": "Secure messages",
+      "title": "Secure messaging",
       "status": "published",
       "url": "https://help.practize.io/help/apps/secure-messages",
       "path": "help/apps/secure-messages.md",
-      "sha256": "bc58253cc463a580a78f84ece080fc3e34934e535aaceb036c55e588c1c5f1d5"
+      "sha256": "8fd90979907361af5cc56861bb32b0e0deec717f4c2d774bd51bac67e0596d53"
     },
     {
       "id": "en.consent",
@@ -107,7 +107,7 @@
       "status": "published",
       "url": "https://help.practize.io/help/apps/consent",
       "path": "help/apps/consent.md",
-      "sha256": "29001dc92d765e7a4f4c4b7657926f60513ea4db75c72577dd13df303e479500"
+      "sha256": "7626381a9d9ecc74a2e8404fec5838031961867e20c3595c52ea403f9dea3e09"
     },
     {
       "id": "en.two-factor-authentication",
@@ -115,7 +115,7 @@
       "status": "published",
       "url": "https://help.practize.io/help/apps/two-factor-authentication",
       "path": "help/apps/two-factor-authentication.md",
-      "sha256": "3ff90d3b1857e7d53e66b187ff776d99930184e5e7734623cb60722dd224b969"
+      "sha256": "00f9d10ceced34fc6caf809a71d7800bf7154b291c7fc1fe73d37aa3a4f08bb2"
     },
     {
       "id": "en.add-on-services",
@@ -123,55 +123,55 @@
       "status": "published",
       "url": "https://help.practize.io/help/apps/add-on-services",
       "path": "help/apps/add-on-services.md",
-      "sha256": "4748d74327f378b49bc421f2332131cf807fa47219bf42008c6ae42fad648a6e"
+      "sha256": "3c53ea31b3429e019e0df5ee20a9ce43c18603d0d2a451ed6582a0c59d25be90"
     },
     {
       "id": "en.discount-codes",
-      "title": "Discount Codes",
+      "title": "Discount codes",
       "status": "published",
       "url": "https://help.practize.io/help/apps/discount-codes",
       "path": "help/apps/discount-codes.md",
-      "sha256": "ed2bee326a7d0c6c8251148f7aeda0ba0d27b06cf877f3d3c511e7f0fae58e33"
+      "sha256": "121231cb6af95eba3dc21e42f9c157e3823453f51299b389918795e63b3bfe32"
     },
     {
       "id": "en.vouchers",
-      "title": "Vouchers",
+      "title": "Vouchers and passes",
       "status": "published",
       "url": "https://help.practize.io/help/apps/vouchers",
       "path": "help/apps/vouchers.md",
-      "sha256": "251e52e96909a7e980bed1bb5caf467f0f67b260f07c1cc37c995d203602823c"
+      "sha256": "1781f5d3012e1808c790e0d641e116f5071f367a4973a7c2f74f1ec23c136e56"
     },
     {
       "id": "en.gift-cards",
-      "title": "Gift Cards",
+      "title": "Gift cards",
       "status": "published",
       "url": "https://help.practize.io/help/apps/gift-cards",
       "path": "help/apps/gift-cards.md",
-      "sha256": "f9385d7f729b4262a6bf5706e459f7d9352284b6f8186562491ed6f8879c7ef8"
+      "sha256": "503ac91deccf42209ae4b27bb138c957dcdf3e6a985cccbb7761603e6b158dd4"
     },
     {
       "id": "en.online-courses",
-      "title": "Online Courses",
+      "title": "Online courses",
       "status": "published",
       "url": "https://help.practize.io/help/online-courses",
       "path": "help/online-courses.md",
-      "sha256": "77b1ef1add7dbc5e5676046c7f4512fda0405756f65cfeab28f505fa19241503"
+      "sha256": "631d022aa07847af5b164fe8761a6183c7e5d6883f7771fddfbd32202641b626"
     },
     {
       "id": "en.appointment-status",
-      "title": "Appointment Status",
+      "title": "Booking status",
       "status": "published",
       "url": "https://help.practize.io/help/apps/calendar-apps",
       "path": "help/apps/calendar-apps.md",
-      "sha256": "9a8892e0fd60e4e155460f1c7cbc27a7de5f47cdfa112500dba851356f3441a1"
+      "sha256": "ba0e482ea33836afbb9aba69b90806ca7b4afede82e55ac185e2fe6931b3aa76"
     },
     {
       "id": "en.events",
-      "title": "Events",
+      "title": "Classes and events",
       "status": "published",
       "url": "https://help.practize.io/help/apps/events",
       "path": "help/apps/events.md",
-      "sha256": "8e11e62e960295861d73d33a7cb75a5eda5e60ae8047b5d590336fce0e285da9"
+      "sha256": "542f095d27415fc87e1c7851f11706f76e461515bf44c9ac1d1f25c0104a33ff"
     },
     {
       "id": "en.attendance",
@@ -179,15 +179,15 @@
       "status": "published",
       "url": "https://help.practize.io/help/apps/attendance",
       "path": "help/apps/attendance.md",
-      "sha256": "e1c0730f4d6b4828ab80535f405aecd4cccabeec13e3682d563a5f6907999216"
+      "sha256": "c560143b135b96684dc52446238720772349ec8228e4363c6f0fe7c3a7e954a4"
     },
     {
       "id": "en.custom-fields",
-      "title": "Custom Fields",
+      "title": "Custom client fields",
       "status": "published",
       "url": "https://help.practize.io/help/apps/custom-fields",
       "path": "help/apps/custom-fields.md",
-      "sha256": "74b184a73eefb1b8d7a541dd2f7dcab6d020e103547d61316d34c652cabb16eb"
+      "sha256": "d2c244c1d29360c69890eaab49d11815dd989ab89d45c7eae0408be216ee1069"
     },
     {
       "id": "en.surveys",
@@ -195,15 +195,296 @@
       "status": "published",
       "url": "https://help.practize.io/help/apps/surveys",
       "path": "help/apps/surveys.md",
-      "sha256": "b45847866d34f9e7220f7d7ac114165c939fd8df5b03b5bde03564f59a0ed12e"
+      "sha256": "655a7118bdbdceb6c5512077e4a7c38d11f74a180409389cec710cd9520a5d72"
     },
     {
       "id": "en.payment-rates",
-      "title": "Payment rates (installments)",
+      "title": "Payment rates",
       "status": "published",
       "url": "https://help.practize.io/help/apps/payment-rates",
       "path": "help/apps/payment-rates.md",
-      "sha256": "4d8ef9ee6705b6a4bfff9f0721f2d16f287fe62d1e5421cb0d08406c21a17cba"
+      "sha256": "081ea5ce79c1e735da37a31ece69c15c561d087a5de2a8bc79a92d14d29e352b"
+    },
+    {
+      "id": "en.app-ai-assistant",
+      "title": "AI Assistant",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/ai-assistant",
+      "path": "help/apps/ai-assistant.md",
+      "sha256": "4809ed21accf0d3aa0cf2c4e6404019d48bd57464e65e6e43972450a9f56d558"
+    },
+    {
+      "id": "en.app-api",
+      "title": "API access",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/api",
+      "path": "help/apps/api.md",
+      "sha256": "211f80321c577d20d1fd0fc590048ef18b664d4f6a5d675ff3c850a225068850"
+    },
+    {
+      "id": "en.app-automatic-cleanup",
+      "title": "Automatic cleanup",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/automatic-cleanup",
+      "path": "help/apps/automatic-cleanup.md",
+      "sha256": "dfb98b4aaedd4561202fc316e46edf66a5e249aeb2b64fc3a8c76492705764e3"
+    },
+    {
+      "id": "en.app-billy",
+      "title": "Billy",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/billy",
+      "path": "help/apps/billy.md",
+      "sha256": "6eea261992673a14bc906ccefd9d4d5b6cbc72c9620571f1c0ca547b28daeb91"
+    },
+    {
+      "id": "en.app-client-login",
+      "title": "Client login",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/client-login",
+      "path": "help/apps/client-login.md",
+      "sha256": "69d67c57a984633d9392ac5f75788b8817259ffab58013da7c66252c88e03245"
+    },
+    {
+      "id": "en.app-client-tags",
+      "title": "Client tags",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/client-tags",
+      "path": "help/apps/client-tags.md",
+      "sha256": "0d9a9db827e6fa3a867848d31582840962aa1c1ceddb09763b4a7ad5f42c9184"
+    },
+    {
+      "id": "en.app-danmark",
+      "title": "Sygeforsikring Danmark",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/danmark",
+      "path": "help/apps/danmark.md",
+      "sha256": "c98468214d01fd30f6efcb741b32463a8f024363f157f4b975c95d193cdedb3d"
+    },
+    {
+      "id": "en.app-dinero",
+      "title": "Dinero",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/dinero",
+      "path": "help/apps/dinero.md",
+      "sha256": "b327236563799d7c5010b0c643bb264fb2d5bbc9f583005ae39ad9a30febd0ee"
+    },
+    {
+      "id": "en.app-ditbetalingssystem",
+      "title": "DitBetalingssystem",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/ditbetalingssystem",
+      "path": "help/apps/ditbetalingssystem.md",
+      "sha256": "99e30b2406fae2ae14b0cb3adcfe3fbe100d4261a694be4a74f302775d448c5f"
+    },
+    {
+      "id": "en.app-ean",
+      "title": "EAN electronic invoicing",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/ean",
+      "path": "help/apps/ean.md",
+      "sha256": "0122444c553eca9a0cb054dc9ca210fab98a5925d41478694e2c3533df95c6c9"
+    },
+    {
+      "id": "en.app-easy-pay",
+      "title": "EasyPay",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/easy-pay",
+      "path": "help/apps/easy-pay.md",
+      "sha256": "5de889ca5d4fb885b8b905d17b4c5c6197aeae37966fecaf3918d2ee2e6477a2"
+    },
+    {
+      "id": "en.app-economic",
+      "title": "e-conomic",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/economic",
+      "path": "help/apps/economic.md",
+      "sha256": "25e1bf3b1e5bdbcc3d7fa604897ee3525b07e7f23c93e88340a60d9051c48724"
+    },
+    {
+      "id": "en.app-ehf",
+      "title": "EHF electronic invoicing",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/ehf",
+      "path": "help/apps/ehf.md",
+      "sha256": "b849be31857b27fdfe9df889c7d9e54555085709c15993790411bb83109652eb"
+    },
+    {
+      "id": "en.app-facebook-client-login",
+      "title": "Facebook client login",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/facebook-client-login",
+      "path": "help/apps/facebook-client-login.md",
+      "sha256": "82e04b6b9c31a0eef5eaef0abdcafee708b5a2dbe9d632eb4ef5cd891467b6c0"
+    },
+    {
+      "id": "en.app-facility-occupancy",
+      "title": "Facility occupancy",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/facility-occupancy",
+      "path": "help/apps/facility-occupancy.md",
+      "sha256": "cb8bd9e07a16baee5876074c8fc1c191d21842a7934aa7b71d6df0c297749921"
+    },
+    {
+      "id": "en.app-fiken",
+      "title": "Fiken",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/fiken",
+      "path": "help/apps/fiken.md",
+      "sha256": "744c2be9b41d4fdb9e29e9a1f25b9783631f81dfa13dc5620bf451a6cc1a7ca5"
+    },
+    {
+      "id": "en.app-fortnox",
+      "title": "Fortnox",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/fortnox",
+      "path": "help/apps/fortnox.md",
+      "sha256": "9c172b498e509dd0be9eb77d7bc2a3bda2013429eb0c7bbaa2bb2219d47c32e3"
+    },
+    {
+      "id": "en.app-google-analytics",
+      "title": "Google Analytics",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/google-analytics",
+      "path": "help/apps/google-analytics.md",
+      "sha256": "ef39bac43762242a6e71fd5be3ba7884324c9f43adcf6aaa48710ab3e54e48b6"
+    },
+    {
+      "id": "en.app-google-calendar",
+      "title": "Google Calendar",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/google-calendar",
+      "path": "help/apps/google-calendar.md",
+      "sha256": "f2799524d6e9880ceba674418cdc40fa23ef692ab3236b24664f3e8eaad5a6d0"
+    },
+    {
+      "id": "en.app-journal",
+      "title": "Client records",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/journal",
+      "path": "help/apps/journal.md",
+      "sha256": "b0702cd5df51d801d8141482d4d9f5a60e18c4bf43f56d7ab80f197058929e35"
+    },
+    {
+      "id": "en.app-mailchimp",
+      "title": "Mailchimp",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/mailchimp",
+      "path": "help/apps/mailchimp.md",
+      "sha256": "212272187e32daec0f91d9cbcca92108585d7d79e6e44da5c128aa607c64719e"
+    },
+    {
+      "id": "en.app-memberships",
+      "title": "Memberships",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/memberships",
+      "path": "help/apps/memberships.md",
+      "sha256": "567014ed48444dcec3fccffb35aaf6f0e853f35ed1631f699db49d0780d62e32"
+    },
+    {
+      "id": "en.app-mobilepay",
+      "title": "MobilePay",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/mobilepay",
+      "path": "help/apps/mobilepay.md",
+      "sha256": "504d3ea03d0e1e41a17d1c09f806f8f0fa0862e087d407c95ef56104a87299c7"
+    },
+    {
+      "id": "en.app-online-booking",
+      "title": "Online Booking",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/online-booking",
+      "path": "help/apps/online-booking.md",
+      "sha256": "931fe173706394adf49fee6630e074f0a78599e935ebb6445d9cac4189145106"
+    },
+    {
+      "id": "en.app-online-meetings",
+      "title": "Online meetings",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/online-meetings",
+      "path": "help/apps/online-meetings.md",
+      "sha256": "b6502a3cf2896eb32c3bf23c663d8487e65818d426b069351d301dd52dc98a3e"
+    },
+    {
+      "id": "en.app-paypal",
+      "title": "PayPal",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/paypal",
+      "path": "help/apps/paypal.md",
+      "sha256": "40df41bbc323a1f54eb286c823c3a275978b815162c6e09515662146eb6eef55"
+    },
+    {
+      "id": "en.app-reports",
+      "title": "Reports",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/reports",
+      "path": "help/apps/reports.md",
+      "sha256": "b138e0e925ed0c3e74dfef30bde50f1859b735c63f2a131b8639c258063fffaf"
+    },
+    {
+      "id": "en.app-tidy-pay",
+      "title": "TidyPay",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/tidy-pay",
+      "path": "help/apps/tidy-pay.md",
+      "sha256": "1d854e0f30beda78a0bf5dfd6505cb86be70f968bff0e5beb04303e7a0e57212"
+    },
+    {
+      "id": "en.app-translation-beta",
+      "title": "Translation beta",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/translation-beta",
+      "path": "help/apps/translation-beta.md",
+      "sha256": "20809af67bc8fe47a313efec81b4c42dccc1710d519adbc7a96fc3a6d5e0a635"
+    },
+    {
+      "id": "en.app-user-management",
+      "title": "Team and user management",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/user-management",
+      "path": "help/apps/user-management.md",
+      "sha256": "e6cd0f413ea6ba9e44d5a8e6fa04f70e757a6cb8d0125cbd8719d114262130d3"
+    },
+    {
+      "id": "en.app-vipadm",
+      "title": "VIPadm",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/vipadm",
+      "path": "help/apps/vipadm.md",
+      "sha256": "b20b13d4f1e0c2792b80d17639a2cab5d3bf6e7178f2f385efa41d89b9ae533d"
+    },
+    {
+      "id": "en.app-waiting-list",
+      "title": "Waiting List",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/waiting-list",
+      "path": "help/apps/waiting-list.md",
+      "sha256": "ed23f5f15c24b18024bc4e0d7e895dfbc1f7f7f7460448effdd211b3dd2bb98c"
+    },
+    {
+      "id": "en.app-workfeed",
+      "title": "Workfeed",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/workfeed",
+      "path": "help/apps/workfeed.md",
+      "sha256": "758c54765ca745a9351d399560ab6c0b1f9aefbb488eb5f44d25838b20647894"
+    },
+    {
+      "id": "en.app-zapier",
+      "title": "Zapier",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/zapier",
+      "path": "help/apps/zapier.md",
+      "sha256": "328e8f1b3ce0437e7e7679b1f74d93d37c5947252345aa176237c1f2b06cb9c0"
+    },
+    {
+      "id": "en.app-zettle",
+      "title": "Zettle",
+      "status": "published",
+      "url": "https://help.practize.io/help/apps/zettle",
+      "path": "help/apps/zettle.md",
+      "sha256": "b8d3607aea3f51fa518374798603ee27ce4e29cbf0d8778ccd68a2e47b18e9e0"
     }
-  ]
+  ],
+  "base_source_manifest_version": "pilot-en-local-4"
 }

@@ -1,30 +1,39 @@
 ---
 layout: default
-title: "Payment rates (installments)"
+title: "Payment rates"
 permalink: /help/apps/payment-rates
 canonical_url: https://help.practize.io/help/apps/payment-rates
 corpus_id: en.payment-rates
-source_sha256: 4d8ef9ee6705b6a4bfff9f0721f2d16f287fe62d1e5421cb0d08406c21a17cba
+source_sha256: 081ea5ce79c1e735da37a31ece69c15c561d087a5de2a8bc79a92d14d29e352b
 ---
 
-# Payment rates (installments)
+# Payment rates
 
-## What Payment Rates does
+Split a supported invoice into scheduled installments.
 
-Payment Rates lets an eligible purchase be divided into multiple scheduled portions when the supported checkout and payment configuration allow it. Here, “rates” means installments; it does not mean card-processing fees or exchange rates.
+## Availability and permissions
 
-## Configure installments
+Open **Settings → Apps** and find **Payment rates**. The card's availability, price, connection state and available actions apply to your account. A help article does not activate an app. Ask the owner to review missing access; staff permissions and app availability are separate. Do not use another person's login to bypass a restriction.
 
-Open **Settings → Apps → Payment Rates** and activate the App. Configure the installment options shown for the practice, then enable them only for eligible services, vouchers, or other supported products. Review the total, number of installments, timing, currency, VAT, and provider requirements.
+## Set up
 
-Preview the client checkout. Verify that the full price, each installment, and payment schedule are clear before confirmation. Use only an approved sandbox or test method for provider testing.
+1. Activate Payment Rates where available.
+2. When creating the invoice, select the payment-rate option and configure the number of installments and the interval in days.
+3. Review each scheduled amount and due date before creating or sending the invoice.
+4. If using automatic collection, verify the required EasyPay setup and the client payment arrangement first.
 
-## Monitor and correct
+## Everyday use
 
-After a test purchase, confirm the local schedule and provider-confirmed payment status. A browser redirect or local pending row does not prove collection. If an installment fails, use the displayed recovery flow and provider record; do not create duplicate charges while the first attempt is unresolved.
+Review the individual installment invoices and their payment status. The configured schedule creates subsequent installments; successful card collection still depends on the actual payment result.
 
-Changing the App configuration should not be assumed to rewrite an existing payment agreement. Refunds and cancellations depend on the original transaction and provider workflow.
+## Troubleshooting
 
-## Security and troubleshooting
+If an installment fails or remains unpaid, inspect that installment and any payment attempt before retrying. Do not assume paying the first installment proves that all later ones were collected.
 
-If installments are missing, check App activation, product eligibility, price minimums, currency, payment provider readiness, and employee permissions. Never paste card data, provider customer or charge identifiers, webhook payloads, API keys, or a named client's schedule into an AI Assistant question.
+## Limits and changes
+
+An installment schedule is different from a recurring membership plan. App deactivation or editing a label does not automatically cancel existing debts or refund paid installments.
+
+## Related help
+
+Return to [App help](https://help.practize.io/help/) to find related setup guides. Before changing a connected workflow, finish pending work and verify its status in the relevant booking, invoice or client record.

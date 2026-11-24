@@ -1,30 +1,39 @@
 ---
 layout: default
-title: "Events"
+title: "Classes and events"
 permalink: /help/apps/events
 canonical_url: https://help.practize.io/help/apps/events
 corpus_id: en.events
-source_sha256: 8e11e62e960295861d73d33a7cb75a5eda5e60ae8047b5d590336fce0e285da9
+source_sha256: 542f095d27415fc87e1c7851f11706f76e461515bf44c9ac1d1f25c0104a33ff
 ---
 
-# Events
+# Classes and events
 
-## Create an event
+Create group sessions, workshops and courses with participants and configured places.
 
-Events supports group sessions with a date, capacity, participant sign-up, and optional payment. Open **Events**, create the event, choose the responsible calendar or owner, and enter the schedule, capacity, price, and client-facing description shown by the form.
+## Availability and permissions
 
-Set the timezone before publishing and verify the displayed start and end times. Configure waiting-list, voucher, consent, or payment behavior only when the corresponding Apps are active and compatible.
+Open **Settings → Apps** and find **Classes and events**. The card's availability, price, connection state and available actions apply to your account. A help article does not activate an app. Ask the owner to review missing access; staff permissions and app availability are separate. Do not use another person's login to bypass a restriction.
 
-## Publish and test sign-up
+## Set up
 
-Preview the public event page. Use an approved test client to verify availability, capacity, price, consent, payment, confirmation, and waiting-list behavior. Confirm the resulting sign-up inside Practize; a browser success page alone is not proof of payment or enrolment.
+1. Activate the Classes/events app and open its settings. Review client login requirements, cancellation options and the cancellation deadline.
+2. Choose the client details required at signup and whether fully booked events should be hidden from public listings. Save the settings.
+3. Create the class or event in the calendar. Check its time, calendar, price, public availability and participant capacity before publishing.
+4. Open the public view to verify the intended session and signup details. A draft or unavailable offering should not be advertised as bookable.
 
-## Manage participants
+## Everyday use
 
-Use the event participant list to review sign-ups and permitted contact actions. Changes to capacity or time can affect existing participants, so communicate through the approved channel. Cancelling an event does not automatically prove that connected payments were refunded.
+Open the session to review participants and reservations. Membership plans can include eligible open classes. Use the Participants attendance controls to record actual attendance where enabled. A booked place and a checked-in participant are different states.
 
-If registration is unavailable, check the event date, capacity, publication state, active Apps, public booking settings, payment setup, and participant eligibility.
+## Troubleshooting
 
-## Privacy and permissions
+If a session is missing, check its public visibility, timing, calendar access and whether fully booked sessions are hidden. If signup is refused, inspect capacity and applicable cancellation or booking rules. Follow waiting-list promotion before admitting a walk-in when required.
 
-Only authorized users should see participant identities or edit the event. Keep health details, journals, private attendance reasons, and sensitive notes out of public descriptions and AI Assistant questions. The Assistant can explain event operations but cannot retrieve participant data or perform refunds.
+## Limits and changes
+
+Capacity is session-specific. It is not a live facility headcount. Cancelling a reservation, voiding attendance and refunding payment are separate operations. See [Attendance](https://help.practize.io/help/apps/attendance) and [Facility occupancy](https://help.practize.io/help/apps/facility-occupancy).
+
+## Related help
+
+Return to [App help](https://help.practize.io/help/) to find related setup guides. Before changing a connected workflow, finish pending work and verify its status in the relevant booking, invoice or client record.

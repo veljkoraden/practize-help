@@ -4,27 +4,35 @@ title: "Surveys"
 permalink: /help/apps/surveys
 canonical_url: https://help.practize.io/help/apps/surveys
 corpus_id: en.surveys
-source_sha256: b45847866d34f9e7220f7d7ac114165c939fd8df5b03b5bde03564f59a0ed12e
+source_sha256: 655a7118bdbdceb6c5512077e4a7c38d11f74a180409389cec710cd9520a5d72
 ---
 
 # Surveys
 
-## Build a survey
+Send follow-up surveys and collect structured client responses.
 
-Surveys lets a practice collect structured answers through supported client workflows. Open **Settings → Surveys** or the Surveys App, create a survey, and add questions in a clear order. Use the least sensitive question type that meets the purpose.
+## Availability and permissions
 
-Set when the survey is sent or shown, which clients or services it applies to, and whether answers are required. Review the wording for consent, accessibility, and privacy before activation.
+Open **Settings → Apps** and find **Surveys**. The card's availability, price, connection state and available actions apply to your account. A help article does not activate an app. Ask the owner to review missing access; staff permissions and app availability are separate. Do not use another person's login to bypass a restriction.
 
-## Test and send
+## Set up
 
-Preview the survey with test data. Confirm required and optional behavior, branching or choices when present, completion confirmation, and the employee view of results. Activate it only after the test matches the intended workflow.
+1. Activate Surveys and open its settings.
+2. Configure the available survey and follow-up options, including when a survey should be sent.
+3. Preview the wording and recipient flow using a suitable test before enabling routine sending.
 
-If a survey is not delivered, check its active state, trigger, applicable service or client, message configuration, recipient contact details, and whether the expected appointment state occurred. Avoid resending until the existing delivery status is understood.
+## Everyday use
 
-## Review and retire
+Review responses in the supported survey workflow and follow up according to the practice procedure.
 
-Survey responses may affect client service, but they are not a substitute for urgent communication or a clinical record. Restrict result access to authorized employees. Before editing or deleting questions, consider how the change affects earlier responses and reports.
+## Troubleshooting
 
-## Privacy
+If a survey was not received, check contact details, the triggering booking or event and configured send conditions. Avoid repeatedly sending the same request while delivery is uncertain.
 
-Do not ask for passwords, payment credentials, authentication codes, or unnecessary identity data. Survey answers may contain health or other sensitive information. Do not paste them into an AI Assistant question. The Assistant can explain survey setup from this article but cannot retrieve or summarize client responses.
+## Limits and changes
+
+A survey response is not necessarily consent or a clinical record. Do not promise anonymity unless the exact survey configuration supports it.
+
+## Related help
+
+Return to [App help](https://help.practize.io/help/) to find related setup guides. Before changing a connected workflow, finish pending work and verify its status in the relevant booking, invoice or client record.

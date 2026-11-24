@@ -1,30 +1,38 @@
 ---
 layout: default
-title: "Discount Codes"
+title: "Discount codes"
 permalink: /help/apps/discount-codes
 canonical_url: https://help.practize.io/help/apps/discount-codes
 corpus_id: en.discount-codes
-source_sha256: ed2bee326a7d0c6c8251148f7aeda0ba0d27b06cf877f3d3c511e7f0fae58e33
+source_sha256: 121231cb6af95eba3dc21e42f9c157e3823453f51299b389918795e63b3bfe32
 ---
 
-# Discount Codes
+# Discount codes
 
-## Plan a discount code
+Create and manage promotional codes for the supported sales flows.
 
-Discount Codes let a practice apply a defined reduction in supported purchase or booking flows. Before creating one, decide the code, discount type, validity period, usage conditions, and the products or flows where it should apply.
+## Availability and permissions
 
-## Configure and test
+Open **Settings → Apps** and find **Discount codes**. The card's availability, price, connection state and available actions apply to your account. A help article does not activate an app. Ask the owner to review missing access; staff permissions and app availability are separate. Do not use another person's login to bypass a restriction.
 
-Open **Settings → Apps → Discount Codes**, activate the App, and create or edit the code. Use a code that is easy for clients to enter but not likely to be guessed when the offer is restricted. Set dates and limits deliberately, and check whether prices include VAT before deciding the amount or percentage.
+## Set up
 
-Test the code in the same public flow clients will use. Confirm that an invalid, expired, or ineligible code is rejected; an eligible code changes the expected line and total; and the final confirmation and invoice show the intended result.
+1. Activate Discount codes and open its settings.
+2. Create a code with the discount and any eligible-offering, validity or usage controls exposed by the editor.
+3. Save, then preview an eligible and an ineligible purchase to check the scope before sharing the code.
 
-## Operate the offer
+## Everyday use
 
-Disabling a code stops future eligible use but does not reverse completed purchases. If a code was configured incorrectly, disable it, identify affected transactions through normal reports, and correct them using the supported invoice or refund workflow.
+Use the search and filter controls to find existing codes. Verify the final checkout amount when helping a client.
 
-If a code does not work, check spelling, dates, usage limits, eligible service or product, currency, active App status, and whether another discount rule conflicts.
+## Troubleshooting
 
-## Security and privacy
+If a code is rejected, check spelling, validity, applicable offering and the limits shown for that code. Do not create duplicate campaigns to bypass a validation error.
 
-Treat unpublished promotional codes as business-sensitive. Do not include client names, transaction details, provider payloads, or restricted codes in an AI Assistant question. The Assistant can explain configuration; it cannot validate the commercial or legal terms of an offer.
+## Limits and changes
+
+A code is not a refund for an earlier purchase. Do not assume codes apply to every product or combine with other discounts; the specific checkout result is authoritative.
+
+## Related help
+
+Return to [App help](https://help.practize.io/help/) to find related setup guides. Before changing a connected workflow, finish pending work and verify its status in the relevant booking, invoice or client record.

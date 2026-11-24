@@ -4,27 +4,35 @@ title: "Consent"
 permalink: /help/apps/consent
 canonical_url: https://help.practize.io/help/apps/consent
 corpus_id: en.consent
-source_sha256: 29001dc92d765e7a4f4c4b7657926f60513ea4db75c72577dd13df303e479500
+source_sha256: 7626381a9d9ecc74a2e8404fec5838031961867e20c3595c52ea403f9dea3e09
 ---
 
 # Consent
 
-## What the Consent App controls
+Collect the configured client consent in selected public workflows.
 
-The Consent App lets a practice present consent text during selected client flows, such as booking or purchasing. It records the choice made in that flow. It does not replace legal review, and enabling a checkbox does not by itself prove that wording is suitable for every service, country, or client.
+## Availability and permissions
 
-## Configure consent
+Open **Settings → Apps** and find **Consent**. The card's availability, price, connection state and available actions apply to your account. A help article does not activate an app. Ask the owner to review missing access; staff permissions and app availability are separate. Do not use another person's login to bypass a restriction.
 
-Open **Settings → Apps → Consent**. Activate the App, enter the approved consent wording, and select the flows where consent is required. Keep the text clear and specific. Link to the relevant privacy or service terms when the settings provide that option.
+## Set up
 
-Test each enabled flow from the client side. Confirm that the text is visible before submission, that a required choice blocks submission when left empty, and that optional consent is not presented as mandatory.
+1. Activate Consent and open its settings.
+2. Review the consent text and checkbox label. Set the required-consent options for online booking, events, vouchers, client login and online courses as needed.
+3. Save and inspect each relevant client-facing flow. Confirm the displayed wording and when agreement is required.
 
-## Review and change settings
+## Everyday use
 
-Use the client or transaction record to review the consent evidence available for that action. If the wording changes, preserve the business reason and effective date outside the free-text wording where your compliance process requires it. A later wording change should not be assumed to rewrite past consent.
+Use the recorded consent information associated with the client workflow. Review consent text when practice processes change.
 
-## Permissions, troubleshooting, and privacy
+## Troubleshooting
 
-Only authorized users should change consent settings. If consent does not appear, verify that the App and the specific flow are active, the public page uses the current configuration, and cached pages were refreshed.
+If no checkbox appears, check the setting for that specific workflow rather than only the app activation. If a client cannot continue, check whether required consent was left unchecked.
 
-Consent records can be sensitive personal data. Do not put client names, answers, signatures, or health information into an AI Assistant question. The Assistant can provide product instructions from this article but cannot decide legal sufficiency or retrieve a client's consent record.
+## Limits and changes
+
+Consent text must match your actual processing. Enabling a checkbox does not establish legal compliance or retroactively obtain consent for earlier activities. Do not confuse treatment consent with marketing permission.
+
+## Related help
+
+Return to [App help](https://help.practize.io/help/) to find related setup guides. Before changing a connected workflow, finish pending work and verify its status in the relevant booking, invoice or client record.

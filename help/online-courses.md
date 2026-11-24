@@ -1,32 +1,38 @@
 ---
 layout: default
-title: "Online Courses"
+title: "Online courses"
 permalink: /help/online-courses
 canonical_url: https://help.practize.io/help/online-courses
 corpus_id: en.online-courses
-source_sha256: 77b1ef1add7dbc5e5676046c7f4512fda0405756f65cfeab28f505fa19241503
+source_sha256: 631d022aa07847af5b164fe8761a6183c7e5d6883f7771fddfbd32202641b626
 ---
 
-# Online Courses
+# Online courses
 
-## Create a course
+Manage digital course offerings for clients.
 
-Open **Online Courses** and create a course with a clear title and description. Add the lessons or sections in the intended order, then attach approved text, video, files, or links. Save changes before previewing.
+## Availability and permissions
 
-Set the course's price, availability, client access, and purchase settings shown for the practice. Activate any required Online Courses or payment App before making the course public.
+Open **Settings → Apps** and find **Online courses**. The card's availability, price, connection state and available actions apply to your account. A help article does not activate an app. Ask the owner to review missing access; staff permissions and app availability are separate. Do not use another person's login to bypass a restriction.
 
-## Preview and publish
+## Set up
 
-Use the practitioner preview to inspect every lesson, link, download, and client instruction. Then test the client view with a non-production test client. Confirm that an authorized enrolment can open the course and that an unrelated client cannot.
+1. Activate Online courses and review its settings and price.
+2. Create the course using the course-management workflow and configure its content and sale/access options.
+3. Check the public course information and an authorized client view before publishing or sending access instructions.
 
-Publishing a change can affect what enrolled clients see. Avoid removing content that clients still need without a migration or communication plan. Keep copyrighted and confidential material within its permitted audience.
+## Everyday use
 
-## Enrolment and troubleshooting
+Manage course content and help clients use the access associated with their account and purchase.
 
-Use the supported purchase or assignment flow to enrol a client. A checkout return alone does not prove access was granted; verify both payment status and course access.
+## Troubleshooting
 
-If a course or lesson is missing, check publication status, client enrolment, payment state, active Apps, file availability, and employee permissions. Large or unsupported files may need a different format or approved hosting.
+If a client cannot access content, verify identity, the correct course and the actual access/payment state. Do not send private course material through a public link to bypass a failed login.
 
-## Privacy
+## Limits and changes
 
-Do not embed client-specific material, journals, clinical notes, private video links, credentials, or tracking secrets in course content. Do not paste enrolment details or client activity into an AI Assistant question. The Assistant can explain course setup from reviewed help content, but it cannot inspect a client's progress.
+Digital course access is separate from a calendar class reservation and from facility entry. Activating the app does not prove a particular purchase succeeded.
+
+## Related help
+
+Return to [App help](https://help.practize.io/help/) to find related setup guides. Before changing a connected workflow, finish pending work and verify its status in the relevant booking, invoice or client record.

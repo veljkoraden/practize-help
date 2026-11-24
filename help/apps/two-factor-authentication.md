@@ -4,27 +4,35 @@ title: "Two-factor authentication"
 permalink: /help/apps/two-factor-authentication
 canonical_url: https://help.practize.io/help/apps/two-factor-authentication
 corpus_id: en.two-factor-authentication
-source_sha256: 3ff90d3b1857e7d53e66b187ff776d99930184e5e7734623cb60722dd224b969
+source_sha256: 00f9d10ceced34fc6caf809a71d7800bf7154b291c7fc1fe73d37aa3a4f08bb2
 ---
 
 # Two-factor authentication
 
-## Why use two-factor authentication
+Add the supported second authentication step to a staff login.
 
-Two-factor authentication adds a second verification step to a Practize account. It reduces the risk from a stolen password, but it does not replace unique passwords, device security, or correct employee access.
+## Availability and permissions
 
-## Enable it
+Open **Settings → Apps** and find **Two-factor authentication**. The card's availability, price, connection state and available actions apply to your account. A help article does not activate an app. Ask the owner to review missing access; staff permissions and app availability are separate. Do not use another person's login to bypass a restriction.
 
-Open **Settings → Apps → Two-factor authentication** and choose the setup action. Follow the on-screen instructions to connect a compatible authenticator and verify the generated code. Complete the confirmation before closing the setup screen.
+## Set up
 
-Store any recovery information shown during setup in an approved secure location. Never store it in a client journal, shared chat, ordinary email, or an AI Assistant question. Each person should use their own Practize login and second factor.
+1. Open the Two-factor authentication activation flow for the account that will use it.
+2. Follow the displayed setup and verification steps using the supported verification method.
+3. Finish confirmation and verify the next sign-in works. Follow any recovery instructions provided by the setup flow.
 
-## Sign in and recover access
+## Everyday use
 
-At sign-in, enter the current verification code after the password step. If a code is rejected, confirm the device time is automatic and try the next current code once. Repeated retries can complicate diagnosis.
+Keep the verification method available when signing in and use the recovery/support flow if it is lost.
 
-If the authenticator device is lost, use the recovery option shown by Practize or contact an authorized administrator or support channel. Identity should be verified before two-factor authentication is reset. After recovery, review active users and change the password if account exposure is possible.
+## Troubleshooting
 
-## Administration and troubleshooting
+If verification fails, check the entered code and its validity, then follow the account recovery process. Never give a login code to someone claiming to be support.
 
-Removing two-factor authentication weakens the account immediately. Limit that action to the account owner or an authorized administrator, and re-enable it after recovery. Never ask a client or colleague to send a one-time code, QR setup image, recovery code, password, or session cookie.
+## Limits and changes
+
+Activating an app is not evidence that every staff login has completed enrollment. Review individual account protection. This feature does not replace permission controls or secure device handling.
+
+## Related help
+
+Return to [App help](https://help.practize.io/help/) to find related setup guides. Before changing a connected workflow, finish pending work and verify its status in the relevant booking, invoice or client record.
